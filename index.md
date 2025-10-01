@@ -16,6 +16,9 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## Title
+## Intro
+**Name : ** Imran
+** Department : ** Artificial Intelligence
 
 Body
 
